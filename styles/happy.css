@@ -1,0 +1,30 @@
+/* common etyle */
+* {
+  font-family: 'Merriweather', serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+}
+
+/* 1-header section */
+.header1 {
+  background-image: url('../resources/Banner\ Image.png');
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  padding: 80px;
+  height: 700px;
+
+  border-radius: 16px;
+}
+.header1-title-1 {
+  color: rgba(43, 179, 165, 0.937);
+  text-align: center;
+  font-size: 40px;
+  padding-top: 20px;
+}
+.header1-title-2 {
+  color: rgba(21, 154, 231, 0.994);
+  text-align: center;
+  font-size: 65px;
+  padding-bottom: 20px;
+}
