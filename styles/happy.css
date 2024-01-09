@@ -201,6 +201,7 @@ main {
 .container4-div1{
   padding-top: 80px;
   padding-left: 50px;
+  margin-bottom: 100px;
 }
 
 .container4-div1-h4{
@@ -299,6 +300,10 @@ Holidays-container-5{
   font-weight: 500;
   line-height: 32px; /* 160% */
 }
+.sum-product{
+  margin-bottom: 100px;
+
+}
 
 /* class="50%-img */
 .offer-img{
@@ -349,10 +354,14 @@ mar
 /* <ul class="gift-product"> */
 
 .gift-product{
-  
   /* text-align: center; */
   display: flex;
   list-style: none; 
   gap: 40px; 
+  margin: 100px auto;
   
+}
+.last-container{
+  margin: top 100px;
+  margin: bottom 50px; ;
 }
