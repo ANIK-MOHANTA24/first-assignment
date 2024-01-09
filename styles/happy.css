@@ -299,3 +299,60 @@ Holidays-container-5{
   font-weight: 500;
   line-height: 32px; /* 160% */
 }
+
+/* class="50%-img */
+.offer-img{
+  background-color:rgb(15, 162, 185);
+  margin: 100px;
+  border-radius: 26px;
+  
+  
+}
+.offer-container{
+  background-repeat: none;
+  list-style: none;
+  display: flex;
+
+}
+.img-44{
+  height: 50px;;
+  max-width: 50px;
+  background-size: 40px 60px;
+}
+.img-33{
+  background-size: cover;
+}
+.img-11{
+background-repeat: no-repeat;
+justify-content: right;
+margin: 50px 50px 0px auto;
+mar
+}
+
+.img-22{
+  background-repeat: no-repeat; 
+  /* width: 300px;
+  height: 150px; */
+  padding: auto;100px
+
+}
+
+/* awasome-portfolio6 */
+
+.awasome-portfolio6{
+  margin:50px ;
+  /* background-color: aqua; */
+  justify-content: center;
+  height: 50px;
+}
+
+/* <ul class="gift-product"> */
+
+.gift-product{
+  
+  /* text-align: center; */
+  display: flex;
+  list-style: none; 
+  gap: 40px; 
+  
+}
